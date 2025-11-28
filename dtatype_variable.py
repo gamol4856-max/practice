@@ -9,7 +9,7 @@ x = 10
 y = 3.5
 z = "hello"
 
-print (type(x), type(y), type(z))
+print (type(x), type(y), type(z)) (shows type of data type)
 
 
 a = 5
@@ -24,7 +24,7 @@ print (x,y)
 first = "python"
 second = "programming"
 
-print (first +" "+
+print (first +" "+            ---------------            (concatination of string)
         second)
 
 '''first = "Python"
@@ -46,7 +46,8 @@ d = True
 e = "123"
 f = 9.0
 
-print ("a.integer b. float\n c. string\n d. boolean\n e. string\n f. float\n")
+print ("a.integer b. float\n c. string\n d. boolean\n e. string\n f. float\n")  (escape sequence)
+
 
 
 
